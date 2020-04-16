@@ -192,8 +192,6 @@ mvideo %>%
 # Top 10 in percentage
 
 
-* Because the absolute number of likes, dislikes and comments didnt show all the information to really know if the video had an impact or not we will see their percentages.
-
 
 
 ## % Liked videos
